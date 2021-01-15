@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/giuroperto/.dotnet/store/|arch|/|tfm|",
+      "/Users/giuroperto/.nuget/packages"
+    ]
+  }
+}
